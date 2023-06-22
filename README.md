@@ -13,5 +13,3 @@ With over 9 years of experience working in this field to develop Mobile Applicat
 Reach out today, and let's embark on an incredible journey together! 
 
 ⚡ Fun fact: You cannot complete a project without using StackOverflow
-
-
