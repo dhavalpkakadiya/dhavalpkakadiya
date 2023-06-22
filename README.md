@@ -18,11 +18,9 @@ If you have any questions related to technology, reach me by
 - ⚡ Fun fact: You cannot complete a project without using StackOverflow 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dhavalpkakadiya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dhaval-k-4a499117a/)  
+[<img  width="7%" src="https://camo.githubusercontent.com/5d3b9c003df99ca4704c50bec9c29eaecbc08f6f71c4cf1203cc02fe7c7ed737/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f6769746875622e706e67" alt='github'>](https://github.com/dhavalpkakadiya)  [<img width="7%" src="https://camo.githubusercontent.com/4f660401d8469647f004f5740254c81a657f48d4c55a635be05ffb196c2be320/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f6c696e6b6564696e2e706e67" alt='linkedin'>](https://www.linkedin.com/in/dhaval-k-4a499117a/)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhavalpkakadiya)](https://github.com/anuraghazra/github-readme-stats) ![GitHub streak stats](https://streak-stats.demolab.com/?user=dhavalpkakadiya) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhavalpkakadiya)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=dhavalpkakadiya)  
  
